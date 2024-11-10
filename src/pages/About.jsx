@@ -8,8 +8,8 @@ export default function About() {
       <div className="flex justify-between flex-col-reverse md:flex-row py-20 px-8">
           <div className="space-y-3 basis-9/12 ">
             <h1 className="text-4xl font-bold capitalize border-b-2 border-green-400">About me </h1>
-            <h3 className="text-4xl font-bold capitalize">hello, i'm <span className='text-green-500'>abdur rahim</span> </h3>
-            <p className="text-lg font-semibold">Introducing <span className='text-green-500'>Abdur Rahim,</span> a skilled web developer with a passion for crafting beautiful and functional online experiences. A master of both front-end development and WordPress, Abdur brings a unique blend of technical expertise and creative vision to every project touches.</p>
+            <h3 className="text-4xl font-bold capitalize">hello, i'm <span className='text-green-500'>stas malysh</span> </h3>
+            <p className="text-lg font-semibold">Introducing <span className='text-green-500'>Stas Malysh,</span> a skilled web developer with a passion for crafting beautiful and functional online experiences.</p>
 
             <button className='bg-green-500 text-white px-5 py-2 rounded-lg capitalize'>get in touch</button>
             <div className="flex space-x-2">

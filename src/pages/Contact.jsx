@@ -13,9 +13,8 @@ export default function Contact() {
             <div className="flex justify-center items-center">
                 <form action="https://api.web3forms.com/submit" method="POST">
                 <input type="hidden" name="access_key" value={import.meta.env.VITE_WEB3FORM}/>
-                <input type="hidden" name="subject" value="Contact From Abdur Rahim"/>
-                {/* <input type="hidden" name="redirect" value="https://abdurrahim.netlify.app/"/> */}
-                <input type="hidden" name="redirect" value="https://react-blog-localstorage.vercel.app/sucess" />
+                <input type="hidden" name="subject" value="Contact From stas"/>
+                
                     <div className="w-96">
                         <div className="flex flex-col mb-2">
                             <label className="text-gray-700">Name</label>
@@ -52,7 +51,7 @@ export default function Contact() {
           <div className="bg-white px-8 py-4 rounded-md flex justify-center items-center flex-col">
            <svg className='text-green-500 w-10 ' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"></path><path d="M3 3H21C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3ZM20 7.23792L12.0718 14.338L4 7.21594V19H20V7.23792ZM4.51146 5L12.0619 11.662L19.501 5H4.51146Z"></path></svg>
             <div className="text-gray-700 text-xl font-semibold mb-2">Email</div> 
-            <div className="text-gray-600">rahim@mailinator.com</div>
+            
           </div>
         </div>
       </div>

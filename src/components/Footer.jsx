@@ -78,7 +78,7 @@ export default function Footer() {
                 <div className="flex flex-wrap items-center md:justify-between justify-center">
                 <div className="w-full md:w-4/12 px-4 mx-auto text-center text-white">
                     <div className="text-sm text-gray-600 font-semibold py-1">
-                    Made with <a href="" className="text-gray-600 hover:text-gray-900">React JS</a> by <a href="" className="text-gray-600 hover:text-gray-900">Abdur Rahim</a>.
+                    Made with <a href="" className="text-gray-600 hover:text-gray-900">React JS</a> by <a href="" className="text-gray-600 hover:text-gray-900">Stas Bebroy</a>.
                     </div>
                     </div>
                     <div className="w-full md:w-8/12 px-4">

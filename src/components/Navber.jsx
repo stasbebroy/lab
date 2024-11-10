@@ -29,7 +29,7 @@ export default function Navber() {
                                 {/* Website Logo */}
                                 <Link to="/" className="flex items-center py-4 px-2">
                                     
-                                    <span className="font-semibold text-gray-500 text-lg">BlogWithLocalStorage</span>
+                                    <span className="font-semibold text-gray-500 text-lg">Blog</span>
                                 </Link>
                             </div>
                             {/* Primary Navbar items */}
